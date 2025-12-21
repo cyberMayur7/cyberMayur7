@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Mayur
+## 👋 Hi, I'm  Tecno Mayur
 
 ### 🚀 About Me
 - Cybersecurity Student & VAPT Learner  
