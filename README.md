@@ -175,6 +175,8 @@ Professional portfolio built using React + Tailwind CSS.
 
 🏅 AWS Certified Cloud Practitioner
 
+🏅 AWS Certified AI Practitioner
+
 🏅 IBM – Journey to Cloud: Envisioning Your Solution
 
 🏅 Security Analyst Certificate Programme – Reliance Foundation
@@ -198,8 +200,6 @@ Professional portfolio built using React + Tailwind CSS.
 🏅 Mastercard Cybersecurity Job Simulation (Forage)
 
 🏅 EnigmaXplore 2.0 CTF – Unstop
-
-🏅 IoT Club Quiz Challenge – Unstop
 
 ---
 
