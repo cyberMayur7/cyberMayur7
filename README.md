@@ -261,21 +261,7 @@ Professional portfolio built using React + Tailwind CSS.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberMayur7&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
 ---
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-> After enabling GitHub Actions, replace the image below with your generated snake animation.
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
 # 🎯 Cybersecurity Platforms
 
 <div align="center">
