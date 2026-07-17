@@ -253,14 +253,6 @@ Professional portfolio built using React + Tailwind CSS.
 </div>
 
 ---
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberMayur7&theme=tokyo-night&hide_border=true" />
-</div>
----
 # 🎯 Cybersecurity Platforms
 
 <div align="center">
